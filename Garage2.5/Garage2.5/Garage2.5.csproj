@@ -149,6 +149,7 @@
     <Compile Include="Models\Member.cs" />
     <Compile Include="Models\ParkedVehicle.cs" />
     <Compile Include="Models\VehicleType.cs" />
+    <Compile Include="Models\ViewModel\Overview.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -191,7 +192,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\ViewModel\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
